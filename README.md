@@ -57,7 +57,7 @@ Nike Landing Page is a front-end web application designed to showcase Nike produ
    ```
 2. Open your browser and navigate to:
    ```bash
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Technologies
